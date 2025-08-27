@@ -1,6 +1,7 @@
 <!-- index.md -->
 ---
-DeepDive
+layout: home
+title: DeepDive
 ---
 
 <style>
